@@ -1,2 +1,2 @@
 # basic-portfolio
-Homework 1: a basic portfolio
+Practicing a basic portfolio 
